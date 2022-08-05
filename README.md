@@ -1,4 +1,4 @@
-# fourier-transform
+# Fourier Transform
 Project for Amirkabir University in signals and systems course. Fourier transform of some famous functions implemented in MATLAB
 
 ## What you will learn by doing this project:
